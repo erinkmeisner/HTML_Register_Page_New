@@ -1,0 +1,64 @@
+.navbar{
+background-color: whitesmoke;
+text-align: right;
+border-top: solid 2px whitesmoke;
+border-right: solid 2px whitesmoke;
+border-left: solid 2px whitesmoke;
+border-bottom: inset 2px  darkgrey;
+font-family: sans-serif;
+padding-top: 20px;
+padding-right: 10px;
+padding-bottom: 20px;
+}
+
+#heading{
+color: black;
+font-family: sans-serif;
+}
+
+#submitbutton{
+    background-color: royalblue;
+    border: transparent;
+    color: white;
+    font-family: sans-serif;
+    padding: 10px 67px;
+    border-radius: 4%;
+    }
+
+#button{
+background-color: royalblue;
+border: transparent;
+color: white;
+font-family: sans-serif;
+padding: 12px 30px; 
+}
+
+.flex-container1{
+border-style: solid 1px darkgrey;
+background-color: whitesmoke;
+color: grey;
+font-family: sans-serif;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 500px;
+margin-right: 500px;
+height: fit-content;
+width: fit-content;
+
+
+
+}
+
+.logo{
+display: flex;
+align-content: center;
+justify-content: space-between;
+flex-direction: row;
+border-style: transparent;
+border-radius: 60%;
+}
+
